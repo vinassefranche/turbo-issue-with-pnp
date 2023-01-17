@@ -1,0 +1,14 @@
+{
+  "name": "turbo-issue-with-pnp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "turbo": "^1.7.0"
+  },
+  "scripts": {
+    "turbo": "turbo run lint",
+    "lint": "echo 'mock of lint'"
+  },
+  "packageManager": "yarn@3.3.1"
+}
